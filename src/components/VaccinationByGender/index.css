@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.VaccinationGender-container {
+  width: 100%;
+  background-color: #1c1c2b;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.vaccination-description {
+  color: #cbd5e1;
+}

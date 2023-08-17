@@ -1,0 +1,45 @@
+/* Write your CSS here */
+
+.App-container {
+  display: flex;
+  padding: 20px;
+  min-height: 100vh;
+  background-color: #161625;
+  flex-direction: column;
+}
+.Vaccination-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+.websiteLogo-container {
+  display: flex;
+  margin-top: 30px;
+  align-items: center;
+}
+
+.websiteLogo-image {
+  width: 80px;
+  height: 80px;
+  margin-right: 20px;
+}
+
+.coVid-heading {
+  font-size: 30px;
+  color: #2cc6c6;
+  font-family: Roboto;
+  font-weight: bold;
+}
+
+.Loader-container {
+  display: flex;
+  justify-content: center;
+}
+
+.main-heading {
+  color: #ffffff;
+  font-size: 40px;
+  font-weight: bold;
+  font-family: Roboto;
+  margin-bottom: 30px;
+}

@@ -1,0 +1,10 @@
+/* Write your CSS here */
+
+.VaccinationAge-container {
+  width: 100%;
+  background-color: #1c1c2b;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
